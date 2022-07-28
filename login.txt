@@ -1,4 +1,4 @@
 Aréa de login
 
-1 Login do adm
-2 Logindo usuario
+1 Login do adm: rhichyllie
+2 Logindo usuario: rhichy
