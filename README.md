@@ -14,3 +14,10 @@ coleta de dados para tranporte
 3 CEP
 RELATORIO 4
 incluir exclusão da conta do usuario\adm 
+
+Alterações do dia 30/07/2022, por pedrohcust:
+acréscimo de dados nos respectivos arquivos:
+- Coleta de dados.txt
+- Dados cadastrados.txt
+- Exclusão de conta.txt
+- Login.txt
